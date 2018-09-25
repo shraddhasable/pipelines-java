@@ -1,4 +1,4 @@
-
+[![Build Status](https://shraddhasable0697.visualstudio.com/Analysis/_apis/build/status/shraddhasable.pipelines-java)](https://shraddhasable0697.visualstudio.com/Analysis/_build/latest?definitionId=17)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
